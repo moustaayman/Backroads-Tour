@@ -258,7 +258,7 @@ Navbar
   .nav-link:hover {
     padding: 0;
     color: var(--clr-primary-5);
-    background: t;
+    background: transparent;
   }
   .nav-icons {
     display: flex;
